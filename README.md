@@ -1,6 +1,6 @@
 # SAE 1.02 : Comparaison d'approches algorithmiques
 
-### Projet :
+### Projet :
 
 Ici le projet se veut être une application permettant la gestion de HLM63. Il s'agit de la gestion des logements et des locataires en fonction des demandes.
 
